@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="876916eb-7e0c-4092-b21b-b4bb8a2733d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="876916eb-7e0c-4092-b21b-b4bb8a2733d1" name="Changes" comment="ok">
       <change beforePath="$PROJECT_DIR$/src/JawabanNomerTiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JawabanNomerTiga.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667978989400</updated>
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1667980331209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667980331209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
